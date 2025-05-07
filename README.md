@@ -4,6 +4,10 @@
 
 **Detailed Report:** [View Full Report](https://drive.google.com/file/d/1iV4mUaaHJH13sBWXC_E806jUoPonHdRK/view?usp=sharing)
 
+### 📱 Download Working APK  
+[Click here to download the working APK](https://drive.google.com/file/d/1TJFSAIb03FPdomOMzeCyvJAuRwjfEuGT/view?usp=sharing)
+
+
 ## Objective
 To integrate CometChat's chat functionality into a React Native project with support for:
 - User signup and login
